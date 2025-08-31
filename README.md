@@ -72,12 +72,6 @@ Feel free to open issues or propose improvements via pull requests. Additional d
 
 ---
 
-### Contact
-
-Created by **aastha280**. For questions, suggestions, or collaborations, feel free to reach out!
-
----
-
 ### Quick Summary
 
 | Aspect            | Details                                                        |
